@@ -1,0 +1,18 @@
+﻿  main.cpp
+  GW Path visualizer.cpp
+C:\Users\Gael\Desktop\Viewer\Viewer\GW Path visualizer.cpp(133,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gael\Desktop\Viewer\Viewer\GW Path visualizer.cpp(138,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gael\Desktop\Viewer\Viewer\GW Path visualizer.cpp(467,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Gael\Desktop\Viewer\Viewer\GW Path visualizer.cpp(467,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Gael\Desktop\Viewer\Viewer\GW Path visualizer.cpp(474,75): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Gael\Desktop\Viewer\Viewer\GW Path visualizer.cpp(474,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Gael\Desktop\Viewer\Viewer\GW Path visualizer.cpp(475,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Gael\Desktop\Viewer\Viewer\GW Path visualizer.cpp(476,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Gael\Desktop\Viewer\Viewer\GW Path visualizer.cpp(476,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Gael\Desktop\Viewer\Viewer\GW Path visualizer.cpp(622,2): warning C4065: switch statement contains 'default' but no 'case' labels
+  Generating code
+  190 of 2514 functions ( 7.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    42 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Viewer.vcxproj -> C:\Users\Gael\Desktop\Viewer\x64\Release\Viewer.exe
